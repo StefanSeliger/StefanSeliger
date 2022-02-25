@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript**
 
-- 💬 Ask me about **HTML5, SASS, CSS3, JavaScript, React**
+- 💬 Ask me about **React, JavaScript, SASS/SCSS, CSS3, HTML5**
 
 - 📫 How to reach me **stefan.seliger@icloud.com**
 
